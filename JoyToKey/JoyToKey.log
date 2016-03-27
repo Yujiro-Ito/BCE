@@ -1,0 +1,35 @@
+2016/03/13 18:29:28.187 Info   Starting JoyToKey Ver5.8.2
+2016/03/13 18:29:28.187 Info   ExeFile=E:\BCE\JoyToKey\JoyToKey.exe
+2016/03/13 18:29:28.187 Info   ConfigDir=E:\BCE\JoyToKey\
+2016/03/13 18:29:28.187 Info   IniFile=E:\BCE\JoyToKey\JoyToKey.ini
+2016/03/13 18:29:28.187 Info   Windows Version = 6.2
+2016/03/13 18:29:28.343 Info   Loaded VistaAPI.dll (Utils\Utils.cpp#217)
+2016/03/13 18:29:28.343 Info   LicenseKey "" is not valid
+2016/03/13 18:29:28.374 Info   Loading XInput1_3.dll (Joystick.cpp#126)
+2016/03/13 18:29:28.390 Info   Initialized XInput (Joystick.cpp#144)
+2016/03/13 18:29:28.453 Info   Detected a DI joystick: {84C75AD0-E949-11E5-8002-444553540000}, PS(R) Gamepad Adaptor, PS(R) Gamepad Adaptor
+2016/03/13 18:29:28.453 Info   Preferred index = -1
+2016/03/13 18:29:28.453 Info   numAxis = 5
+2016/03/13 18:29:28.453 Info   numPOVs = 1
+2016/03/13 18:29:28.453 Info   numButtons = 16
+2016/03/13 18:29:28.453 Info   EnumDeviceObject: Axis offset=0 type=602 name=Ž² 6
+2016/03/13 18:29:28.453 Info   EnumDeviceObject: Axis offset=4 type=102 name=Y Ž²
+2016/03/13 18:29:28.453 Info   EnumDeviceObject: Axis offset=8 type=2 name=X Ž²
+2016/03/13 18:29:28.453 Info   EnumDeviceObject: Axis offset=12 type=502 name=Z ‰ñ“]
+2016/03/13 18:29:28.453 Info   EnumDeviceObject: Axis offset=16 type=202 name=Z Ž²
+2016/03/13 18:29:28.453 Info   Detected a DI joystick: {84C75AD0-E949-11E5-8003-444553540000}, JC-PS102U, JC-PS102U
+2016/03/13 18:29:28.453 Info   Preferred index = -1
+2016/03/13 18:29:28.453 Info   numAxis = 4
+2016/03/13 18:29:28.453 Info   numPOVs = 1
+2016/03/13 18:29:28.453 Info   numButtons = 12
+2016/03/13 18:29:28.453 Info   EnumDeviceObject: Axis offset=4 type=502 name=Z ‰ñ“]
+2016/03/13 18:29:28.453 Info   EnumDeviceObject: Axis offset=8 type=202 name=Z Ž²
+2016/03/13 18:29:28.453 Info   EnumDeviceObject: Axis offset=12 type=102 name=Y Ž²
+2016/03/13 18:29:28.453 Info   EnumDeviceObject: Axis offset=16 type=2 name=X Ž²
+2016/03/13 18:29:28.453 Info   DetectJoysticks: Detected 2 DI joystick(s)
+2016/03/13 18:29:28.468 Info   Joystick #1: PS(R) Gamepad Adaptor
+2016/03/13 18:29:28.468 Info   Joystick #2: JC-PS102U
+2016/03/13 18:29:28.468 Info   2 joysticks are detected (Joystick.cpp#166)
+2016/03/13 18:29:28.468 Info   ConfigDir=E:\BCE\JoyToKey\*.cfg (ConfigFileManager.cpp#43)
+2016/03/13 18:29:28.468 Info   Failed to find AppLink.dat (AppLink\AppLinkManager.cpp#32)
+2016/03/13 18:29:28.546 Info   TimerInit: Initializing timer with x1 speed mode (interval = 16 msec)
