@@ -1,7 +1,7 @@
 名刺交換ゲーム（Business card exchange)
 ====
 
-Overview
+##Overview
 一日の間で名刺を何枚交換できたか2プレイヤーで競い合うゲーム。
 
 ## Description
