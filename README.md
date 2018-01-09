@@ -10,5 +10,7 @@
 開発補助ツールにJoyToKeyを使っている。
 minim,spriteのLibraryのみ使用。
 
+私の担当はMyGameクラスでのインスタンス管理処理、Playerクラスの作成、音の再生システムの作成等
+
 ## Author
 [Yujiro-ito](https://github.com/Yujiro-Ito)
